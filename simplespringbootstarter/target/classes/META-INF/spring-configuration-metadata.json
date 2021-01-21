@@ -1,0 +1,22 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.wsd.starter.ExampleServiceProperties",
+      "name": "example.service",
+      "type": "com.wsd.starter.ExampleServiceProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.wsd.starter.ExampleServiceProperties",
+      "name": "example.service.prefix",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.wsd.starter.ExampleServiceProperties",
+      "name": "example.service.suffix",
+      "type": "java.lang.String"
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+com\wsd\starter\ExampleService.class
+META-INF\spring-configuration-metadata.json
+com\wsd\starter\ExampleAutoConfigure.class
+com\wsd\starter\ExampleServiceProperties.class

@@ -1,0 +1,4 @@
+example.service:
+  enabled: true
+  prefix: pppwsd
+  suffix: sss
